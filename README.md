@@ -1,10 +1,6 @@
 # 👩🏼‍💻 | 1000DEV's Talentos Para o Bem
-![image](https://github.com/kellymoreira/1000devs/assets/129607885/47d7c307-9a85-42f4-97a0-a1e7b1674c68)
 
-<p align="center">
-  <img src="https://github.com/kellymoreira/1000devs/assets/129607885/47d7c307-9a85-42f4-97a0-a1e7b1674c68" />
-</p>
-
+![banner](https://github.com/kellymoreira/1000devs/assets/129607885/4606791c-c207-4739-b96a-ecfad439053b)
 
 > *O programa **"1000DEV's Talentos Para o Bem"** é uma iniciativa da **Johnson & Johnson** e do **Hospital Israelita Albert Einstein**, em parceria com a **mesttra**. <br>
 > O objetivo do programa é capacitar talentos na área de programação, oferecendo uma academia com mais de 330 horas de encontros síncronos, com o propósito de impactar comunidades de jovens em todo o Brasil. <br>
