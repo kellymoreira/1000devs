@@ -13,7 +13,7 @@ _[Saiba Mais sobre o Projeto](https://www.jnjmedtech.com/pt-br/hcp/1000-devs-tal
 
 + [Arrays](./Arrays)
 
-_**Repositório em Construção...**_
+_**Repositório em construção, logo colocarei o restante das atividades...**_
 
 
 <div align="right">
