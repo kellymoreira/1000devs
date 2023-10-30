@@ -11,9 +11,7 @@ _[Saiba Mais sobre o Projeto](https://www.jnjmedtech.com/pt-br/hcp/1000-devs-tal
 
 <h3>Exercícios</h3>
 
-+ Arrays
-
-+ [Arrays](kellymoreira/1000devs/tree/main/Arrays)
++ [Arrays](./1000devs/Arrays)
 
 
 <div align="right">
