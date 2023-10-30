@@ -13,8 +13,8 @@ _[Saiba Mais sobre o Projeto](https://www.jnjmedtech.com/pt-br/hcp/1000-devs-tal
 
 + [Arrays](./Arrays)
 
-+ Lista de 20 Exercícios 1 - Algoritmos Sequenciais
-+ Lista de 20 Exercícios 2 - Estruturas de Decisão
++ Lista de 20 Exercícios 1 - Sequential Algorithms
++ Lista de 20 Exercícios 2 - Decision Structures
 
 
 
