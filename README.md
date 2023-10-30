@@ -11,7 +11,7 @@ _[Saiba Mais sobre o Projeto](https://www.jnjmedtech.com/pt-br/hcp/1000-devs-tal
 
 <h3>Exercícios</h3>
 
-+ [Arrays](./1000devs/Arrays)
++ [Arrays](./Arrays)
 
 
 <div align="right">
