@@ -12,7 +12,7 @@ _[Saiba Mais sobre o Projeto](https://www.jnjmedtech.com/pt-br/hcp/1000-devs-tal
 # Exercícios 📑
 
 + [Arrays](./Arrays)
-+ [Object Oriented Programming (OOP)](./Object-Oriented-Programming-(OOP))
++ [Object Oriented Programming (OOP)](./ObjectOrientedProgramming(OOP))
 
 _**Repositório em construção, logo colocarei o restante das atividades...**_
 
