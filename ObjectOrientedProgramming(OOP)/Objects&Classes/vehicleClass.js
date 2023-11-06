@@ -17,7 +17,7 @@ class Vehicle {
 
   // Method
   drive() {
-    console.log(`I would love to have a ${this.brand}!`);
+    console.log(`I would love to drive a ${this.brand}!`);
   }
 }
 
