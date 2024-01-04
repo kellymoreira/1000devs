@@ -2,7 +2,7 @@
 
 /************************************************************************************************************************
  *
- * Faça um algoritmo para ler três notas de um aluno em uma disciplina e imprimir a sua média ponderada
+ * Faça um algoritmo para ler três notas de um aluno em uma disciplina e imprimir a sua média ponderada.
  * (as notas tem pesos respectivos de 1, 2 e 3).
  *
  * (Média Ponderada: calculada através da soma dos valores multiplicados pelos seus pesos, dividida pela soma dos pesos)
