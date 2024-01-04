@@ -15,9 +15,7 @@ var salarioMinimo, salarioFuncionario, quantidadeSalariosMinimos;
 
 // Obtenção dos dados inseridos no teclado pelo usuário e armazenamento nas variáveis
 salarioMinimo = Number(prompt("Informe o valor do salário mínimo: "));
-salarioFuncionario = Number(
-  prompt("Informe o valor do salário do funcionário: ")
-);
+salarioFuncionario = Number(prompt("Informe o valor do salário do funcionário: "));
 
 // Cálculo da quantidade de salários mínimos que o funcionário recebe
 quantidadeSalariosMinimos = salarioFuncionario / salarioMinimo;
