@@ -3,7 +3,7 @@
 /*************************************************************************************************************************
  *
  * Realize um algoritmo para imprimir a área do terreno retangular e o valor de venda do mesmo.
- * Usuário deve informar as dimensões em metros (frente e lateral) do terreno além do valor cobrado pelo metro quadrado
+ * Usuário deve informar as dimensões em metros (frente e lateral) do terreno além do valor cobrado pelo metro quadrado.
  *
  *************************************************************************************************************************/
 
