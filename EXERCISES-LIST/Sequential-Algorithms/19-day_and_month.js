@@ -7,6 +7,7 @@
  *
  ******************************************************************************************************/
 
+// Preparação para receber entradas do usuário
 const prompt = require("prompt-sync")();
 
 function calcularDias() {
