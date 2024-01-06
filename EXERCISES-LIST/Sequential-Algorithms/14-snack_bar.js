@@ -19,8 +19,7 @@ const prompt = require("prompt-sync")();
 
 // Preparação para receber entradas do usuário
 let quantidadeSanduiches = parseInt(
-  prompt("Digite a quantidade de sanduíches a fazer: ")
-);
+  prompt("Digite a quantidade de sanduíches a fazer: "));
 
 // O peso de cada ingrediuente em gramas
 let pesoQueijoPresunto = 50; // Peso de cada fatiia de queijo ou presunto
