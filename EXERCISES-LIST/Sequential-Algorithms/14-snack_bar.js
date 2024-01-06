@@ -36,9 +36,7 @@ let pesoTotalQueijoEmKg = pesoTotalQueijo / 1000;
 let pesoTotalPresuntoEmKg = pesoTotalPresunto / 1000;
 let pesoTotalCarneEmKg = pesoTotalCarne / 1000;
 
-console.log(
-  "Para produzir " + quantidadeSanduiches + " sanduíches serão necessários:\n"
-);
+console.log("Para produzir " + quantidadeSanduiches + " sanduíches serão necessários:\n");
 console.log(pesoTotalQueijoEmKg.toFixed(2) + " kgs de mussarela");
 console.log(pesoTotalPresuntoEmKg.toFixed(2) + " kgs de presunto");
 console.log(pesoTotalCarneEmKg.toFixed(2) + " kgs de hambúrguer");
