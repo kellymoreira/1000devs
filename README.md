@@ -14,6 +14,10 @@ _[Saiba Mais sobre o Projeto](https://www.jnjmedtech.com/pt-br/hcp/1000-devs-tal
 + [Arrays](./ARRAYS)
 + [Object-Oriented Programming (OOP)](./OBJECT-ORIENTED-PROGRAMMING)
 
+# Listas 📑
++ [Sequential Algorithms](./EXERCISES-LIST/Sequential-Algorithms)
+
+
 _**Repositório em construção, no processso de adicionar atividades...**_
 
 
