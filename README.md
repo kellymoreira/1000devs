@@ -9,14 +9,14 @@
 > A **mesttra** é a startup que desenvolve aprendizes em soft skills e hard skills, com ênfase em **JavaScript**, preparando jovens talentos para assumirem a função de desenvolvedor de software júnior.*
 _[Saiba Mais sobre o Projeto](https://www.jnjmedtech.com/pt-br/hcp/1000-devs-talentos-para-o-bem-na-saude)_
 
-# Exercícios 📑
+# Exercícios 📄
 
 + [Arrays](./ARRAYS)
 + [Object-Oriented Programming (OOP)](./OBJECT-ORIENTED-PROGRAMMING)
 
 # Listas 📑
 + [Sequential Algorithms](./EXERCISES-LIST/Sequential-Algorithms)
-
++ [Decision Structures](./EXERCISES-LIST/Decision-Structures)
 
 _**Repositório em construção, no processso de adicionar atividades...**_
 
