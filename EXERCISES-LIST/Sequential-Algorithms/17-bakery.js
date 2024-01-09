@@ -26,9 +26,9 @@
 const prompt = require("prompt-sync")();
 
 // Recebendo as quantidades de pães e broas, e o valor da reforma
-let quantidadePaes = parseInt(prompt("Digite a quantidade de pães vendidos:"));
-let quantidadeBroas = parseInt(prompt("Digite a quantidade de broas vendidas:"));
-let valorReforma = parseFloat(prompt("Digite o valor da reforma R$:"));
+let quantidadePaes = parseInt(prompt("Digite a quantidade de pães vendidos: "));
+let quantidadeBroas = parseInt(prompt("Digite a quantidade de broas vendidas: "));
+let valorReforma = parseFloat(prompt("Digite o valor da reforma R$: "));
 
 // Preços
 const precoPao = 0.12;
@@ -46,7 +46,7 @@ let valorPoupanca = faturamentoDiario * percentualPoupanca;
 // Calculando quantos dias serão necessários para custear a reforma
 let diasNecessarios = Math.ceil(valorReforma / valorPoupanca);
 
-console.log("Faturamento com a venda de broas: R$ " + faturamentoBroas.toFixed(2));
+console.log("\nFaturamento com a venda de broas: R$ " + faturamentoBroas.toFixed(2));
 console.log("Faturamento com a venda de pães: R$ " + faturamentoPaes.toFixed(2));
 console.log("Faturamento diário (pães + broas): R$ " + faturamentoDiario.toFixed(2));
 console.log("Valor do depósito na poupança: R$ " + valorPoupanca.toFixed(2));
