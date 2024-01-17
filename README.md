@@ -1,7 +1,7 @@
 # 👩🏼‍💻 | 1000DEV's Talentos Para o Bem
 
 <div align="center">
-    <img src="./banner.png" alt="1000devs banner" />
+    <img src="./img/banner.png" alt="1000devs banner" />
 </div>
 
 > *O programa **"1000DEV's Talentos Para o Bem"** é uma iniciativa da **Johnson & Johnson** e do **Hospital Israelita Albert Einstein**, em parceria com a **mesttra**. <br>
