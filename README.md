@@ -1,4 +1,4 @@
-# 👩🏼‍💻 | 1000DEV's Talentos Para o Bem
+# 👩🏼‍💻 | 1000DEV's Talentos Para o Bem, Turma 3 (2023)
 
 <div align="center">
     <img src="./img/banner.png" alt="1000devs banner" />
