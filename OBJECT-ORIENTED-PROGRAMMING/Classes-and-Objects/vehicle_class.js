@@ -15,7 +15,7 @@ class Vehicle {
     this.year = year;
   }
 
-  // Method
+  // Method for driving a certain brand
   drive() {
     console.log(`I would love to drive a ${this.brand}!`);
   }
@@ -25,6 +25,6 @@ class Vehicle {
 const car = new Vehicle("BMW", "The M3", "2023");
 const motorcycle = new Vehicle("Honda", "CB 300F Twister", "2023");
 
-// Call the drive Method to different vehicles
+// Call the drive method to on different vehicles object
 car.drive();
 motorcycle.drive();

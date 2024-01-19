@@ -10,23 +10,23 @@
 
 // Class
 class BankingSystem {
-  constructor(depositAmount, withdrawAmount, checkBalanceAmount) {
+  constructor(depositAmount, withdrawalAmount, checkBalanceAmount) {
     this.depositAmount = depositAmount;
-    this.withdrawAmount = withdrawAmount;
+    this.withdrawalAmount = withdrawalAmount;
     this.checkBalanceAmount = checkBalanceAmount;
   }
 
-  // Methods
+  // Method for making a deposit
   deposit() {
     console.log(`I will deposit ${this.depositAmount} on your bank account!`);
   }
 
+  // Method for making a withdrawal
   withdraw() {
-    console.log(
-      `Yesterday I withdrew ${this.withdrawAmount} from my investments account.`
-    );
+    console.log(`I will withdraw ${this.withdrawalAmount} from your account.`);
   }
 
+  // Method for checking the balance
   checkBalance() {
     console.log(
       `Could you check my bank balance if I have ${this.checkBalanceAmount}?`
@@ -37,7 +37,8 @@ class BankingSystem {
 // Objects from the class BankingSystem
 const client = new BankingSystem("$50", "$20", "$100");
 
-// Call the deposit, withdraw and checkBalance Method to a client
+// Call the deposit, withdraw, and checkBalance methods on the client object
 client.deposit();
 client.withdraw();
 client.checkBalance();
+

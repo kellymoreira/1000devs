@@ -1,7 +1,7 @@
-# 👩🏼‍💻 | 1000DEV's Talentos Para o Bem
+# 👩🏼‍💻 | 1000DEV's Talentos Para o Bem, Turma 3 (2023)
 
 <div align="center">
-    <img src="./banner.png" alt="1000devs banner" />
+    <img src="./img/banner.png" alt="1000devs banner" />
 </div>
 
 > *O programa **"1000DEV's Talentos Para o Bem"** é uma iniciativa da **Johnson & Johnson** e do **Hospital Israelita Albert Einstein**, em parceria com a **mesttra**. <br>
@@ -9,10 +9,14 @@
 > A **mesttra** é a startup que desenvolve aprendizes em soft skills e hard skills, com ênfase em **JavaScript**, preparando jovens talentos para assumirem a função de desenvolvedor de software júnior.*
 _[Saiba Mais sobre o Projeto](https://www.jnjmedtech.com/pt-br/hcp/1000-devs-talentos-para-o-bem-na-saude)_
 
-# Exercícios 📑
+# Exercícios 📄
 
-+ [Arrays](./Arrays)
-+ [Object Oriented Programming (OOP)](./OOP)
++ [Arrays](./ARRAYS)
++ [Object-Oriented Programming (OOP)](./OBJECT-ORIENTED-PROGRAMMING)
+
+# Listas 📑
++ [Sequential Algorithms](./EXERCISES-LIST/Sequential-Algorithms)
++ [Decision Structures](./EXERCISES-LIST/Decision-Structures)
 
 _**Repositório em construção, no processso de adicionar atividades...**_
 
