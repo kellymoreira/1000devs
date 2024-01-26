@@ -20,7 +20,6 @@ _[Saiba Mais sobre o Projeto](https://www.jnjmedtech.com/pt-br/hcp/1000-devs-tal
 
 _**Repositório em construção, no processso de adicionar atividades...**_
 
-
 <div align="right">
   <h3> Obrigada por sua visita! <alt="Obrigada por sua visita!"> </h3>
 </div>
